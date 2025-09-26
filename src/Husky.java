@@ -9,4 +9,8 @@ public class Husky extends Dog {
     public String whoAreYou() {
         return "";
     }
+
+    public String getContact() {
+        return "stash";
+    }
 }
