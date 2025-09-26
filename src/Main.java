@@ -8,10 +8,13 @@ public class Main {
 
         System.out.println(dzhulbars.whoAreYou());
 
-
         Chihuahua chichi = new Chihuahua();
         chichi.eat();
         chichi.voice();
+
+        Husky crazy = new Husky();
+        crazy.eat();
+        crazy.voice();
 
         PetOwner me = new PetOwner();
         me.feedDog(dzhulbars);
