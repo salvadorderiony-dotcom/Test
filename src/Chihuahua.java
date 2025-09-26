@@ -1,7 +1,7 @@
 public class Chihuahua extends Dog{
 
     public String whoAreYou() {
-        return "Chihuahua";
+        return "Chihuahua BBBBBBBBBBBBBB";
     }
 }
 
